@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://cgmonster3D.github.io',
                 'git_url': 'https://github.com/cgmonster3D/nbdev_hw',
                 'lib_path': 'nbdev_hw'},
-  'syms': {'nbdev_hw.core': {'nbdev_hw.core.foo': ('core.html#foo', 'nbdev_hw/core.py')}}}
+  'syms': { 'nbdev_hw.core': { 'nbdev_hw.core.foo': ('stocks correlation.html#foo', 'nbdev_hw/core.py'),
+                               'nbdev_hw.core.say_hello': ('stocks correlation.html#say_hello', 'nbdev_hw/core.py')}}}
