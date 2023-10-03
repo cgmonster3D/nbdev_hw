@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_hw"
+  site-url: "https://cgmonster3D.github.io/nbdev_hw"
+  description: "dasd"
+  repo-branch: main
+  repo-url: "https://github.com/cgmonster3D/nbdev_hw"
